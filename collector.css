@@ -1,0 +1,47 @@
+body{
+    justify-content: center;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    color: white;
+    background: black;
+    border: 2px solid rgb(20, 20, 20);
+    box-shadow: 2px 2px rgba(51, 50, 50, 0.534);
+}
+  #score-area {
+    color: ghostwhite;
+    background-color: black;
+  }
+  
+  #score-title {
+    color: white;
+    background-color:black;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .crystals-button {
+    display: inline;
+  }
+  
+  .crystal-img {
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    background-color: white;
+    border: solid;
+    border-color: black;
+  }
+
+#rules-area{
+    background-color: whitesmoke;
+    color: black;
+    border: 2px solid rgb(247, 236, 236);
+    box-shadow: 2px 2px rgba(223, 211, 211, 0.534);
+}
+ 
+  
